@@ -1,22 +1,22 @@
 ---
 permalink: /
 title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Who am I?
-======
+## Who am I?
 
-here 2
-======
+Hello, I'm Amirhossein Arefzadeh, currently an undergraduate student majoring in Computer Engineering at University of Tehran. My journey into the world of programming commenced during my high school years and continued to flourish as I pursued my higher education in Computer Engineering.
 
-What are my research interests?
-------
+## Research Interests
 
-What are my other interests?
-------
+I am passionately dedicated to revolutionizing education through advanced technologies. My research focuses on employing machine learning algorithms
 
-here 4
+As I continue to learn and grow, I am excited to bridge the gap between technology and education, creating innovative solutions that make learning accessible and engaging for all.
+
+## Other Interests
+
